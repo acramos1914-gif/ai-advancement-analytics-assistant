@@ -1,6 +1,6 @@
 # AI Advancement Analytics Assistant
 
-> A recruiter-ready Streamlit portfolio application that turns fictional Salesforce-style fundraising exports into governed KPIs, privacy-safe AI interpretation, and executive reports.
+> A Streamlit portfolio application that turns fictional Salesforce-style fundraising exports into governed KPIs, privacy-safe AI interpretation, and executive reports.
 
 ![Executive dashboard](screenshots/dashboard.png)
 
